@@ -41,6 +41,13 @@ The BERT model was trained for 3 epochs. The final evaluation metrics on the val
 
 ---
 
+## 🧪 Example Output & Demo
+Here is the final Streamlit application correctly extracting entities from a modern news example:
+
+![Working Streamlit App](Streamlit_App.jpeg)  
+
+---
+
 ## 💻 How to Run the App
 
 ### 1. Re-create the Model
